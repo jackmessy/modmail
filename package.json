@@ -28,7 +28,11 @@
   "dependencies": {
     "discord-sender": "^1.2.8",
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+     "modmail.js": "^2.0.3",
+    "bsapi.js": "^1.0.8",
+    "emz": "^0.1.0",
+    "sandy.js": "1.0.0"
   },
   "bugs": {
     "url": "https://github.com/botstudios/modmail/issues"
